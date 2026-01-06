@@ -29,5 +29,7 @@ you need.
 
 ## Example output
 
-![Four regions with 250 points](screenshots/pic-6.png)
+Four regions and 250 points.
+
+![Image of k-means with four regions with 250 points](screenshots/pic-6.png)
 
