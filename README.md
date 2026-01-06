@@ -26,3 +26,8 @@ pretty well.
 
 If you are lucky, `gradlew run` will download and install everything
 you need.
+
+## Example output
+
+![Four regions with 250 points](screenshots/pic-6.png)
+
