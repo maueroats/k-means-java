@@ -7,8 +7,6 @@ echo "Installed dependencies already?"
 sudo apt-get update -y
 sudo apt-get install -y xvfb x11vnc fluxbox websockify novnc
 
-set -e
-
 echo "Starting virtual display..."
 Xvfb :1 -screen 0 1024x768x24 &
 export DISPLAY=:1
